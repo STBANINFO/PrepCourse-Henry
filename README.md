@@ -1,2 +1,2 @@
-# PrepCourse-Henry
-Este es un repositorio de modulo2 del PrepCourse Henry
+Este proyecto es una prueba de gitub sobre como crear 
+un repositorio en la nube y colocarlo en mi escritorio local
