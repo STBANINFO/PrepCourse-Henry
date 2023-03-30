@@ -1,2 +1,2 @@
-Este proyecto es una prueba de gitub sobre como crear 
-un repositorio en la nube y colocarlo en mi escritorio local
+Este es un proyecto sobre como crear 
+un repositorio de GITHUB en la nube y colocarlo en mi escritorio local
